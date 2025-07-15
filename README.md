@@ -249,7 +249,9 @@ Rscript e "shiny::runApp()"
 
  📧 Contact Information
  💼 Business Inquiries: manukonda.saigoutham5@gmail.com
+ 
  🔧 Technical Support: [Open an issue](https://huggingface.co/spaces/saigouthammanukonda/hotel_booking/discussions)
+ 
  📊 Live Demo: Use the [Shiny Dashboard](https://huggingface.co/spaces/saigouthammanukonda/Shiny)
 
 
